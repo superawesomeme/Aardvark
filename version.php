@@ -17,14 +17,14 @@
 /**
  * Theme version info
  *
- * @package    theme_aardvark
+ * @package    theme_Eagle
  * @copyright  Shaun Daubney
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->component = 'theme_aardvark'; // Full name of the plugin (used for diagnostics)
+$plugin->component = 'theme_Eagle'; // Full name of the plugin (used for diagnostics)
 $plugin->dependencies = array('theme_bootstrapbase'  => 2015111600,);
 $plugin->maturity  = MATURITY_STABLE;
 $plugin->release   = '3.0';

@@ -1,11 +1,11 @@
 /*
- *  Aardvark
+ *  Eagle
  *
  *  The original menubar based theme for Moodle rewritten for Moodle 2.9+ to draw
  *  its base from Bootstrap.
  *
- *  Aardvark has evolved over the past 10 years as Moodle has integrated the
- *  features that have made Aardvark so popular into its core system, including
+ *  Eagle has evolved over the past 10 years as Moodle has integrated the
+ *  features that have made Eagle so popular into its core system, including
  *  custom menu and user menu.
  *
  *  The theme now features a simple flat look with inspiration taken from Flat UI
@@ -13,7 +13,7 @@
  *
  *  ------------------------------------------------------------------------------
  *  More information and documentation can be
- *  found at https://moodle.org/plugins/view.php?plugin=theme_aardvark
+ *  found at https://moodle.org/plugins/view.php?plugin=theme_Eagle
  *
  *  Licenses
  *  ------------------------------------------------------------------------------
@@ -33,12 +33,12 @@
  -  Depreciated Logo URL.
  -  Added new setting for 'Brand Logo' filpicker.
  -  Transfered all individual settings CSS to style/setting.css.
- -  Renamed style/custom.css to style/aardvark.css.
- -  Updated aardvark/lib.php.
- -  Updated aardvark/settings.php.
+ -  Renamed style/custom.css to style/Eagle.css.
+ -  Updated Eagle/lib.php.
+ -  Updated Eagle/settings.php.
  -  Validated all CSS stylesheets with W3C CSS Validator (http://jigsaw.w3.org/css-validator/)
- -  Updated aardvark/version.php
- -  Created new branch - AARDVARK_30_STABLE
+ -  Updated Eagle/version.php
+ -  Created new branch - Eagle_30_STABLE
 
  v2.9.7
   - Removed <?php echo $html->navbarclass ?> from header.php (not required) [Mary Evans]

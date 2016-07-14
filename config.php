@@ -17,20 +17,20 @@
 /**
  * Configuration for Aarvark theme.
  *
- * @package   theme_aardvark
+ * @package   theme_Eagle
  * @authors   Shaun Daubney
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$THEME->name = 'aardvark';
+$THEME->name = 'Eagle';
 $THEME->doctype = 'html5';
 $THEME->parents = array('bootstrapbase');
-$THEME->sheets = array('aardvark', 'blockicons', 'settings');
+$THEME->sheets = array('Eagle', 'blockicons', 'settings');
 $THEME->yuicssmodules = array();
 $THEME->supportscssoptimisation = false;
 $THEME->editor_sheets = array('editor');
 $THEME->rendererfactory = 'theme_overridden_renderer_factory';
-$THEME->csspostprocess = 'theme_aardvark_process_css';
+$THEME->csspostprocess = 'theme_Eagle_process_css';
 
 $THEME->layouts = array(
     // Most backwards compatible layout without the blocks - this is the layout used by default.
