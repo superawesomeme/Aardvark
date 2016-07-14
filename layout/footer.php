@@ -16,7 +16,7 @@
 
 /*
  * @author    Shaun Daubney
- * @package   theme_aardvark
+ * @package   theme_Eagle
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -106,7 +106,7 @@ $haswikipedia = (!empty($PAGE->theme->settings->wikipedia));
 	<p>
 	
 	<?php  
- echo html_writer::link('http://moodle.org/plugins/view.php?plugin=theme_aardvark', get_string('credit', 'theme_aardvark'));
+ echo html_writer::link('http://moodle.org/plugins/view.php?plugin=theme_Eagle', get_string('credit', 'theme_Eagle'));
  echo ' | ';
  echo html_writer::link('http://moodle.org', 'moodle.org');?> 
     	</p>

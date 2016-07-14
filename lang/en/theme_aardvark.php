@@ -16,7 +16,7 @@
 
 /*
  * @author    Shaun Daubney
- * @package   theme_aardvark
+ * @package   theme_Eagle
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -35,10 +35,10 @@ $string['ceopaus'] = 'Enable Australia';
 $string['ceopdesc'] = 'Enable CEOP reporting.';
 $string['ceopnone'] = 'Disabled';
 $string['ceopuk'] = 'Enable United Kingdom';
-$string['choosereadme'] = 'Aardvark is a three column theme for Moodle 2.9+ originally created by Shaun Daubney for <a href="http://www.newbury-college.ac.uk">Newbury College</a> based on Bootstrap. Older versions are available for Moodle 2.8 and below.';
+$string['choosereadme'] = 'Eagle is a three column theme for Moodle 2.9+ originally created by Shaun Daubney for <a href="http://www.newbury-college.ac.uk">Newbury College</a> based on Bootstrap. Older versions are available for Moodle 2.8 and below.';
 $string['colourheading'] = 'Colours and Background';
 $string['colourheadingdesc'] = 'Customise site colours and background image.';
-$string['configtitle'] = 'Aardvark';
+$string['configtitle'] = 'Eagle';
 $string['copyright'] = 'Copyright';
 $string['copyrightdesc'] = 'The name of your organisation.';
 $string['credit'] = 'Based on an original theme created by Shaun Daubney';
@@ -73,7 +73,7 @@ $string['maincolordesc'] = 'Change the main colour of the theme. This includes m
 
 $string['pinterest'] = 'Pinterest URL';
 $string['pinterestdesc'] = 'Enter the URL of your Pinterest page. (i.e http://pinterest.com/mycollege)';
-$string['pluginname'] = 'Aardvark';
+$string['pluginname'] = 'Eagle';
 
 $string['region-side-post'] = 'Right';
 $string['region-side-pre'] = 'Left';
